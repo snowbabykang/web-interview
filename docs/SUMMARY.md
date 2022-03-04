@@ -1,6 +1,6 @@
 # Summary
 
-*[Vue系列](vue/README.md)
+* [Vue系列](vue/README.md)
   * [面试官：说说你对vue的理解?](vue/vue.md)
   * [面试官：说说你对双向绑定的理解?](vue/bind.md)
   * [面试官：说说你对SPA（单页应用）的理解?](vue/spa.md)
