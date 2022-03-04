@@ -262,14 +262,14 @@
 
 <h3 style="text-align: center">小程序系列</h3>
 
-  * [面试官：说说你对微信小程序的理解？优缺点？](docs/applet/applet.md)
-  * [面试官：说说微信小程序的生命周期函数有哪些？](docs/applet/lifecycle.md)
-  * [面试官：说说微信小程序中路由跳转的方式有哪些？区别？](docs/applet/navigate.md)
-  * [面试官：说说提高微信小程序的应用速度的手段有哪些？](docs/applet/optimization.md)
-  * [面试官：说说微信小程序的登录流程？](docs/applet/login.md)
-  * [面试官：说说微信小程序的发布流程？](docs/applet/publish.md)
-  * [面试官：说说微信小程序的支付流程？](docs/applet/requestPayment.md)
-  * [面试官：说说微信小程序的实现原理？](docs/applet/WebView_jscore.md)
+  * [面试官：说说你对微信小程序的理解？优缺点？](applet/applet.md)
+  * [面试官：说说微信小程序的生命周期函数有哪些？](applet/lifecycle.md)
+  * [面试官：说说微信小程序中路由跳转的方式有哪些？区别？](applet/navigate.md)
+  * [面试官：说说提高微信小程序的应用速度的手段有哪些？](applet/optimization.md)
+  * [面试官：说说微信小程序的登录流程？](applet/login.md)
+  * [面试官：说说微信小程序的发布流程？](applet/publish.md)
+  * [面试官：说说微信小程序的支付流程？](applet/requestPayment.md)
+  * [面试官：说说微信小程序的实现原理？](applet/WebView_jscore.md)
 
 * [设计模式系列](design/README.md)
   * [面试官：说说对设计模式的理解？常见的设计模式有哪些？](design/design.md)
